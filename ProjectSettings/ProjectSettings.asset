@@ -12,8 +12,8 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
-  productName: Baldi's Basics Classic
+  companyName: Basically Hair
+  productName: BALD -  School on Earth
   defaultCursor: {fileID: 2800000, guid: e20f4fe154e958e4c8c7c754a6439ee8, type: 3}
   cursorHotspot: {x: 10, y: 2}
   m_SplashScreenBackgroundColor: {r: 0, g: 0, b: 0, a: 1}
@@ -283,7 +283,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: c95357becae9e284d9b5519cc4f6bf0f, type: 3}
+      m_Icon: {fileID: 2800000, guid: b38e69f469327724d8785407732345c8, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0
